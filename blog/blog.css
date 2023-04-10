@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    color: blue;
+}
+body{
+    background-image: url("space.webp");
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+.quotes{
+    text-align: center;
+}
+#quote{
+    color: red;
+    font-size: 20px;
+    background-color: #020505;
+}
+.portfolio{
+    text-align: center;
+    color: red;
+}
+h4{
+    text-align: center;
+    color: #f11111;
+}
+#projectone{
+    text-align: center;
+    font-family:oswald ;
+}
+img{
+    width: 250px;
+}
+.links{
+    text-align: center;
+    color: red;
+}
+#projecttwo{
+    text-align: center;
+    font-family:oswald
+}
+#projectthree{
+    text-align: center;
+    font-family:oswald
+}
+
