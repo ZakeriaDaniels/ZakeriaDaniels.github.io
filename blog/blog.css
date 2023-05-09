@@ -2,8 +2,14 @@ h1{
     text-align: center;
     color: blue;
 }
-body{
-    background-image: url("space.webp");
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#pic{
+    height: 25px;
+    width:25px;
 }
 h2{
     text-align: center;
@@ -43,5 +49,8 @@ img{
 #projectthree{
     text-align: center;
     font-family:oswald
+}
+p{
+    color: #f11111;
 }
 
