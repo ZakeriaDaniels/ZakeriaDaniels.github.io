@@ -31,26 +31,22 @@ h4{
     text-align: center;
     color: #f11111;
 }
-#projectone{
-    text-align: center;
-    font-family:oswald ;
-}
 img{
     width: 250px;
+    height: 240px;
 }
 .links{
     text-align: center;
     color: red;
 }
-#projecttwo{
-    text-align: center;
-    font-family:oswald
-}
-#projectthree{
-    text-align: center;
-    font-family:oswald
-}
+
 p{
     color: #f11111;
+}
+
+.flex-container{
+    display: flex;
+    height: 100vh;
+    flex-wrap: wrap;
 }
 
