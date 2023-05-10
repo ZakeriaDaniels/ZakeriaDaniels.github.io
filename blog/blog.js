@@ -8,5 +8,9 @@ $(function() {
         document.body.style.backgroundColor = "black";
     });
 
+    myButton.addEventListener("dblclick", function() {
+        document.body.style.backgroundColor = "white";
+    });
+
 });
 
