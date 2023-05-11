@@ -7,10 +7,11 @@ h1{
     justify-content: center;
     align-items: center;
 }
-#pic{
+.pic{
     height: 25px;
     width:25px;
 }
+
 h2{
     text-align: center;
     color: blue;
@@ -23,10 +24,7 @@ h2{
     font-size: 20px;
     background-color: #020505;
 }
-.portfolio{
-    text-align: center;
-    color: red;
-}
+
 h4{
     text-align: center;
     color: #f11111;
@@ -39,14 +37,26 @@ img{
     text-align: center;
     color: red;
 }
-
+.card-title{
+    color: black;
+}
 p{
     color: #f11111;
 }
-
+.card-text{
+    color: black;
+}
 .flex-container{
     display: flex;
     height: 100vh;
     flex-wrap: wrap;
 }
-
+.card{
+    background-color: lightskyblue;
+}
+.list-group-item{
+    background-color: lightskyblue;
+}
+.card-link{
+    color: #020505;
+}
